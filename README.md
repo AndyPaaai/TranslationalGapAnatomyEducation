@@ -260,7 +260,7 @@ The complete executable script is available through the repository identified in
 
 ---
 
-## Supplementary Note 1. Interpretation of missing values and not-applicable fields
+## Note: Interpretation of missing values and not-applicable fields
 
 Blank cells or NA values in bibliographic fields indicate that the corresponding information was unavailable in the Scopus export or was not applicable to the individual record.
 These values should not be interpreted as evidence that the corresponding study characteristic was absent unless the variable was specifically constructed as a binary classification indicator.
